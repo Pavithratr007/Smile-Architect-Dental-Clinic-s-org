@@ -1,0 +1,6 @@
+{
+  "name": "Smile Architect Dental Clinic",
+  "description": "Smile Architect Dental Clinic provides comprehensive dental care in Mysuru, including pediatric dentistry, preventive care, orthodontics, implants, oral surgery and cosmetic dental treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
